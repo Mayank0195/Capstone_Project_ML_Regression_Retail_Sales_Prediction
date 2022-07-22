@@ -1,1 +1,1 @@
-# Capstone_Project_ML_Regression_Rossmann_Sales_PredictionRoss
+# Capstone_Project_ML_Regression_Retail_Sales_PredictionRoss
