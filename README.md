@@ -61,3 +61,24 @@ Our goal here is to forecast the sales for six weeks for each store and find out
   - Random Forest Tuned vs Baseline and Random Forest Models
 6. Store wise Sales Predictions
 7. Conclusion and Recommendations
+
+
+# Conclusion and Recommendations
+## Conclusion
+Businesses use sales forecasts to determine what revenue they will be generating in a particular timespan to empower themselves with powerful and strategic business plans. Important decisions such as budgets, hiring, incentives, goals, acquisitions and various other growth plans are affected by the revenue the company is going to make in the coming months and for these plans to be as effective as they are planned to be it is important for these forecasts to also be as good.
+
+The work here forecasts the sales of the various Rossmann stores across Europe and compares the results from the models developed with the actual sales values.
+
+### Some important conclusions drawn from the analysis are as follows:
+
+* There were more sales on Monday, probably because shops generally remain closed on Sundays which had the lowest sales in a week. This validates the hypothesis about this feature.
+* The positive effect of promotion on Customers and Sales is observable.
+* Most stores have competition distance within the range of 0 to 10 kms and had more sales than stores far away probably indicating competition in busy locations vs     remote locations.
+* Store type B though being few in number had the highest sales average. The reasons include all three kinds of assortments specially assortment level b which is only   available at type b stores and being open on sundays as well.
+* The outliers in the dataset showed justifiable behaviour. The outliers were either of store type b or had promotion going on which increased sales.
+* Random Forest Tuned Model gave the best results and only 1.815 % improvement was seen from the basic random forest model which indicates that all the trends and patterns that could be captured by these models without overfitting were done and maximum level of performance achievable by the model was achieved.
+
+## Recommendations
+* More stores should be encouraged for promotion.
+* Store type B should be increased in number.
+* There's a seasonality involved, hence the stores should be encouraged to promote and take advantage of the holidays.
