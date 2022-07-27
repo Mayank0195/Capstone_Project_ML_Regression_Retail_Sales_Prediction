@@ -42,14 +42,15 @@ Our goal here is to forecast the sales for six weeks for each store and find out
    - Data Cleaning
    - Missing Data Handling
    - Merging the Datasets
-   - Feature Engineering
-   - Outlier Detection and Treatment
+   -
 3. Exploratory Data Analysis
    - Hypotheses
   - Categorical Features
   - Continuous Features
   - EDA Conclusion and Validating Hypotheses
 4. Modeling
+  -Feature Engineering
+  - Outlier Detection and Treatment
   - Train Test Split
   - Baseline Model - Decision Tree
   - Random Forest Model
